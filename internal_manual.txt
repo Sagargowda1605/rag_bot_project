@@ -1,0 +1,16 @@
+MANUAL_TEXT = """
+Section 1: System Requirements for Deployment
+
+The AlphaGen RAG Utility requires a minimum of the following resources for stable operation: 
+A multi-core CPU (i5 8th generation equivalent or higher), 16 GB of RAM, and 50 GB of free SSD storage. 
+The supported operating systems are Ubuntu 20.04+, Windows 10/11 (64-bit), and macOS Ventura+. 
+For optimal performance during vector search, 32 GB of RAM is strongly recommended. 
+All deployments must use Python 3.10 or higher.
+
+Section 2: Limited Product Warranty Policy
+
+The warranty period for the AlphaGen RAG Utility is thirty-six (36) months from the date of purchase. 
+This warranty covers critical software bugs and instability stemming from factory defects. 
+The warranty specifically excludes any claims arising from user-induced modifications, data corruption due to non-supported operating systems, or damage caused by external power surges. 
+To claim warranty service, the user must provide the original purchase invoice and a detailed error log.
+"""
